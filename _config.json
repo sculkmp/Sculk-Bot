@@ -8,5 +8,7 @@
         "support": [012345678910]
     },
 
+    "blacklist": ["jblusitsme", "theruser"],
+
     "debug": true
 }
