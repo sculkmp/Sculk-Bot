@@ -48,7 +48,7 @@ class Github(commands.Cog):
         content, format = self.get_github_file(message.content)
 
         if content == 'Invalid URL':
-            embed = discord.Embed(description='### This is not a valid link', colour=0xe67e22)
+            embed = discord.Embed(description='### This is not a valid link', colour=0x28b4d8)
             return await message.reply(embed=embed)
 
         return await message.reply(f'```{format}\n{content}```')

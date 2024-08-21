@@ -19,16 +19,16 @@ class Nuke(commands.Cog):
         await interaction.response.defer(thinking=False)
         channel = await interaction.channel.clone()
         await interaction.channel.delete()
-        embed = discord.Embed(description='### The salon was successfully cleared', colour=0x2d2d31)
+        embed = discord.Embed(description='### The salon was successfully cleared', colour=0x28b4d8)
         await channel.send(embed=embed)
         
     @nuke.error
     async def nuke_error(self, interaction:discord.Interaction, error):
         if isinstance(error, commands.MissingAnyRole):
-            embed = discord.Embed(description='### Do not have permission to use this command', colour=0xe67e22)
+            embed = discord.Embed(description='### Do not have permission to use this command', colour=0x28b4d8)
             await interaction.response.send_message(embed=embed, ephemeral=True)
         else:
-            embed = discord.Embed(description='### An error has occurred', colour=0xe67e22)
+            embed = discord.Embed(description='### An error has occurred', colour=0x28b4d8)
             await interaction.response.send_message(embed=embed, ephemeral=True)
             log.write('cogs.commands.giveaway', error, log.levels.error)
 

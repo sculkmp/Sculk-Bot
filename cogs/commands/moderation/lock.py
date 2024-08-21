@@ -19,19 +19,19 @@ class lock(commands.Cog):
         
         await interaction.channel.set_permissions(interaction.guild.default_role, send_messages=False)
         
-        embed = discord.Embed(description='### The lounge has been successfully locked', colour=0x2d2d31)
+        embed = discord.Embed(description='### The lounge has been successfully locked', colour=0x28b4d8)
         await interaction.followup.send(embed=embed)
         
-        embed = discord.Embed(description='### The living room has been locked', colour=0xe74c3c)
+        embed = discord.Embed(description='### The living room has been locked', colour=0x28b4d8)
         await interaction.channel.send(embed=embed)
     
     @lock.error
     async def lock_error(self, interaction:discord.Interaction, error):
         if isinstance(error, commands.MissingAnyRole):
-            embed = discord.Embed(description='### Do not have permission to use this command', colour=0xe67e22)
+            embed = discord.Embed(description='### Do not have permission to use this command', colour=0x28b4d8)
             await interaction.response.send_message(embed=embed, ephemeral=True)
         else:
-            embed = discord.Embed(description='### An error has occurred', colour=0xe67e22)
+            embed = discord.Embed(description='### An error has occurred', colour=0x28b4d8)
             await interaction.response.send_message(embed=embed, ephemeral=True)
             log.write('cogs.commands.lock', error, log.levels.error)
     
@@ -44,19 +44,19 @@ class lock(commands.Cog):
         
         await interaction.channel.set_permissions(interaction.guild.default_role, send_messages=True)
         
-        embed = discord.Embed(description='### The lounge has been successfully locked', colour=0x2d2d31)
+        embed = discord.Embed(description='### The lounge has been successfully locked', colour=0x28b4d8)
         await interaction.followup.send(embed=embed)
         
-        embed = discord.Embed(description='### The living room has been unlocked', colour=0x2ecc71)
+        embed = discord.Embed(description='### The living room has been unlocked', colour=0x28b4d8)
         await interaction.channel.send(embed=embed)
     
     @unlock.error
     async def unlock_error(self, interaction:discord.Interaction, error):
         if isinstance(error, commands.MissingAnyRole):
-            embed = discord.Embed(description='### Do not have permission to use this command', colour=0xe67e22)
+            embed = discord.Embed(description='### Do not have permission to use this command', colour=0x28b4d8)
             await interaction.response.send_message(embed=embed, ephemeral=True)
         else:
-            embed = discord.Embed(description='### An error has occurred', colour=0xe67e22)
+            embed = discord.Embed(description='### An error has occurred', colour=0x28b4d8)
             await interaction.response.send_message(embed=embed, ephemeral=True)
             log.write('cogs.commands.lock', error, log.levels.error)
 

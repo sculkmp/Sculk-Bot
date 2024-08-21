@@ -23,7 +23,7 @@ class Info(commands.Cog):
         boost_level = interaction.guild.premium_tier
         vanity_url = interaction.guild.vanity_url
         
-        embed = discord.Embed(description=f'## Information on `{interaction.guild.name}`\n\u200b', colour=0x2d2d31)
+        embed = discord.Embed(description=f'## Information on `{interaction.guild.name}`\n\u200b', colour=0x28b4d8)
         embed.add_field(name='Members', value=f'`👤` {humans}\n`🤖` {bots}', inline=True)
         embed.add_field(name='Channel', value=f'`📂` {categories}\n`💬` {text_channels}\n`🔊` {voice_channels}', inline=True)
         embed.add_field(name='Rank', value=f'`👾` {roles}', inline=True)

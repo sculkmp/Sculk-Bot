@@ -20,7 +20,7 @@ class form(discord.ui.Modal):
             embed = discord.Embed(description=self.answer.value, color=int(self.color.value, 16))
             await interaction.channel.send(embed=embed)
         except ValueError:
-            embed = discord.Embed(description='### The colour must be hexadecimal', colour=0xe67e22)
+            embed = discord.Embed(description='### The colour must be hexadecimal', colour=0x28b4d8)
             await interaction.channel.send(embed=embed)
 
 
@@ -38,10 +38,10 @@ class sayCog(commands.Cog):
     @say.error
     async def say_error(self, interaction:discord.Interaction, error):
         if isinstance(error, commands.MissingAnyRole):
-            embed = discord.Embed(description='### you do not have permission to use this command', colour=0xe67e22)
+            embed = discord.Embed(description='### you do not have permission to use this command', colour=0x28b4d8)
             await interaction.response.send_message(embed=embed, ephemeral=True)
         else:
-            embed = discord.Embed(description='### An error occurred', colour=0xe67e22)
+            embed = discord.Embed(description='### An error occurred', colour=0x28b4d8)
             await interaction.response.send_message(embed=embed, ephemeral=True)
             log.write('cogs.commands.say', error, log.levels.error)
 
