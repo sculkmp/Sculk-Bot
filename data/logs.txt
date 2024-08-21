@@ -1,0 +1,501 @@
+2024-02-26 13:20:00 DEBUG     main Mode débug activé
+2024-02-26 13:20:00 DEBUG     main cogs.commands.giveaway chargé
+2024-02-26 13:20:00 DEBUG     main cogs.commands.info chargé
+2024-02-26 13:20:00 DEBUG     main cogs.commands.level chargé
+2024-02-26 13:20:00 DEBUG     main cogs.commands.say chargé
+2024-02-26 13:20:00 DEBUG     main cogs.commands.moderation.lock chargé
+2024-02-26 13:20:00 DEBUG     main cogs.commands.moderation.nuke chargé
+2024-02-26 13:20:00 DEBUG     main cogs.events.autorole chargé
+2024-02-26 13:20:00 DEBUG     main cogs.events.level chargé
+2024-02-26 13:20:00 DEBUG     main cogs.events.tickets chargé
+2024-02-26 13:20:00 DEBUG     main cogs.events.welcome chargé
+2024-02-26 13:20:03 INFO     main Theruser test bot#1363 est connecté avec 7 commande(s) synchronisée(s) sous la version 1.0.0beta
+2024-02-26 13:27:42 DEBUG     main Mode débug activé
+2024-02-26 13:27:42 DEBUG     main cogs.commands.giveaway chargé
+2024-02-26 13:27:42 DEBUG     main cogs.commands.info chargé
+2024-02-26 13:27:43 DEBUG     main cogs.commands.level chargé
+2024-02-26 13:27:43 DEBUG     main cogs.commands.say chargé
+2024-02-26 13:27:43 DEBUG     main cogs.commands.moderation.lock chargé
+2024-02-26 13:27:43 DEBUG     main cogs.commands.moderation.nuke chargé
+2024-02-26 13:27:43 DEBUG     main cogs.events.autorole chargé
+2024-02-26 13:27:43 DEBUG     main cogs.events.level chargé
+2024-02-26 13:27:43 DEBUG     main cogs.events.tickets chargé
+2024-02-26 13:27:43 DEBUG     main cogs.events.welcome chargé
+2024-02-26 13:27:45 INFO     main Theruser test bot#1363 est connecté avec 7 commande(s) synchronisée(s) sous la version 1.0.0beta
+2024-02-26 13:27:57 DEBUG     main Mode débug activé
+2024-02-26 13:27:57 DEBUG     main cogs.commands.giveaway chargé
+2024-02-26 13:27:57 DEBUG     main cogs.commands.info chargé
+2024-02-26 13:27:57 DEBUG     main cogs.commands.level chargé
+2024-02-26 13:27:57 DEBUG     main cogs.commands.say chargé
+2024-02-26 13:27:57 DEBUG     main cogs.commands.moderation.lock chargé
+2024-02-26 13:27:57 DEBUG     main cogs.commands.moderation.nuke chargé
+2024-02-26 13:27:57 DEBUG     main cogs.events.autorole chargé
+2024-02-26 13:27:57 DEBUG     main cogs.events.level chargé
+2024-02-26 13:27:57 DEBUG     main cogs.events.tickets chargé
+2024-02-26 13:27:57 DEBUG     main cogs.events.welcome chargé
+2024-02-26 13:28:46 INFO     main Theruser test bot#1363 est connecté avec 7 commande(s) synchronisée(s) sous la version 1.0.0beta
+2024-02-26 13:39:30 DEBUG     main Mode débug activé
+2024-02-26 13:39:30 DEBUG     main cogs.commands.giveaway chargé
+2024-02-26 13:39:30 DEBUG     main cogs.commands.info chargé
+2024-02-26 13:39:30 DEBUG     main cogs.commands.level chargé
+2024-02-26 13:39:30 DEBUG     main cogs.commands.say chargé
+2024-02-26 13:39:30 DEBUG     main cogs.commands.moderation.lock chargé
+2024-02-26 13:39:30 DEBUG     main cogs.commands.moderation.nuke chargé
+2024-02-26 13:39:30 DEBUG     main cogs.events.autorole chargé
+2024-02-26 13:39:30 DEBUG     main cogs.events.level chargé
+2024-02-26 13:39:30 DEBUG     main cogs.events.tickets chargé
+2024-02-26 13:39:30 DEBUG     main cogs.events.welcome chargé
+2024-02-26 13:39:34 INFO     main Theruser test bot#1363 est connecté avec 7 commande(s) synchronisée(s) sous la version 1.0.0beta
+2024-02-26 13:39:58 DEBUG     main Mode débug activé
+2024-02-26 13:39:58 DEBUG     main cogs.commands.giveaway chargé
+2024-02-26 13:39:58 DEBUG     main cogs.commands.info chargé
+2024-02-26 13:39:58 DEBUG     main cogs.commands.level chargé
+2024-02-26 13:39:58 DEBUG     main cogs.commands.say chargé
+2024-02-26 13:39:58 DEBUG     main cogs.commands.moderation.lock chargé
+2024-02-26 13:39:58 DEBUG     main cogs.commands.moderation.nuke chargé
+2024-02-26 13:39:58 DEBUG     main cogs.events.autorole chargé
+2024-02-26 13:39:58 DEBUG     main cogs.events.level chargé
+2024-02-26 13:39:58 DEBUG     main cogs.events.tickets chargé
+2024-02-26 13:39:58 DEBUG     main cogs.events.welcome chargé
+2024-02-26 13:40:33 INFO     main Theruser test bot#1363 est connecté avec 7 commande(s) synchronisée(s) sous la version 1.0.0beta
+2024-02-26 13:44:34 DEBUG     main Mode débug activé
+2024-02-26 13:44:34 DEBUG     main cogs.commands.giveaway chargé
+2024-02-26 13:44:34 DEBUG     main cogs.commands.info chargé
+2024-02-26 13:44:34 DEBUG     main cogs.commands.level chargé
+2024-02-26 13:44:34 DEBUG     main cogs.commands.say chargé
+2024-02-26 13:44:34 DEBUG     main cogs.commands.moderation.lock chargé
+2024-02-26 13:44:34 DEBUG     main cogs.commands.moderation.nuke chargé
+2024-02-26 13:44:34 DEBUG     main cogs.events.autorole chargé
+2024-02-26 13:44:34 DEBUG     main cogs.events.level chargé
+2024-02-26 13:44:43 DEBUG     main Mode débug activé
+2024-02-26 13:44:43 DEBUG     main cogs.commands.giveaway chargé
+2024-02-26 13:44:43 DEBUG     main cogs.commands.info chargé
+2024-02-26 13:44:43 DEBUG     main cogs.commands.level chargé
+2024-02-26 13:44:43 DEBUG     main cogs.commands.say chargé
+2024-02-26 13:44:43 DEBUG     main cogs.commands.moderation.lock chargé
+2024-02-26 13:44:43 DEBUG     main cogs.commands.moderation.nuke chargé
+2024-02-26 13:44:43 DEBUG     main cogs.events.autorole chargé
+2024-02-26 13:44:43 DEBUG     main cogs.events.level chargé
+2024-02-26 13:44:43 DEBUG     main cogs.events.tickets chargé
+2024-02-26 13:44:43 DEBUG     main cogs.events.welcome chargé
+2024-02-26 13:44:46 INFO     main Theruser test bot#1363 est connecté avec 7 commande(s) synchronisée(s) sous la version 1.0.0beta
+2024-02-26 13:50:33 DEBUG     main Mode débug activé
+2024-02-26 13:50:33 DEBUG     main cogs.commands.giveaway chargé
+2024-02-26 13:50:33 DEBUG     main cogs.commands.info chargé
+2024-02-26 13:50:33 DEBUG     main cogs.commands.level chargé
+2024-02-26 13:50:33 DEBUG     main cogs.commands.say chargé
+2024-02-26 13:50:33 DEBUG     main cogs.commands.moderation.lock chargé
+2024-02-26 13:50:33 DEBUG     main cogs.commands.moderation.nuke chargé
+2024-02-26 13:50:33 DEBUG     main cogs.events.autorole chargé
+2024-02-26 13:50:33 DEBUG     main cogs.events.level chargé
+2024-02-26 13:50:33 DEBUG     main cogs.events.tickets chargé
+2024-02-26 13:50:33 DEBUG     main cogs.events.welcome chargé
+2024-02-26 13:50:36 INFO     main Theruser test bot#1363 est connecté avec 7 commande(s) synchronisée(s) sous la version 1.0.0beta
+2024-02-26 13:54:04 DEBUG     main Mode débug activé
+2024-02-26 13:54:04 DEBUG     main cogs.commands.giveaway chargé
+2024-02-26 13:54:04 DEBUG     main cogs.commands.info chargé
+2024-02-26 13:54:05 DEBUG     main cogs.commands.level chargé
+2024-02-26 13:54:05 DEBUG     main cogs.commands.say chargé
+2024-02-26 13:54:05 DEBUG     main cogs.commands.moderation.lock chargé
+2024-02-26 13:54:05 DEBUG     main cogs.commands.moderation.nuke chargé
+2024-02-26 13:54:05 DEBUG     main cogs.events.autorole chargé
+2024-02-26 13:54:05 DEBUG     main cogs.events.level chargé
+2024-02-26 13:54:05 DEBUG     main cogs.events.tickets chargé
+2024-02-26 13:54:05 DEBUG     main cogs.events.welcome chargé
+2024-02-26 13:54:07 INFO     main Theruser test bot#1363 est connecté avec 7 commande(s) synchronisée(s) sous la version 1.0.0beta
+2024-02-26 13:55:24 DEBUG     main Mode débug activé
+2024-02-26 13:55:24 DEBUG     main cogs.commands.giveaway chargé
+2024-02-26 13:55:24 DEBUG     main cogs.commands.info chargé
+2024-02-26 13:55:24 DEBUG     main cogs.commands.level chargé
+2024-02-26 13:55:24 DEBUG     main cogs.commands.say chargé
+2024-02-26 13:55:24 DEBUG     main cogs.commands.moderation.lock chargé
+2024-02-26 13:55:24 DEBUG     main cogs.commands.moderation.nuke chargé
+2024-02-26 13:55:24 DEBUG     main cogs.events.autorole chargé
+2024-02-26 13:55:24 DEBUG     main cogs.events.level chargé
+2024-02-26 13:55:24 DEBUG     main cogs.events.tickets chargé
+2024-02-26 13:55:24 DEBUG     main cogs.events.welcome chargé
+2024-02-26 13:55:27 INFO     main Theruser test bot#1363 est connecté avec 7 commande(s) synchronisée(s) sous la version 1.0.0beta
+2024-02-26 13:55:41 DEBUG     main Mode débug activé
+2024-02-26 13:55:41 DEBUG     main cogs.commands.giveaway chargé
+2024-02-26 13:55:41 DEBUG     main cogs.commands.info chargé
+2024-02-26 13:55:41 DEBUG     main cogs.commands.level chargé
+2024-02-26 13:55:41 DEBUG     main cogs.commands.say chargé
+2024-02-26 13:55:41 DEBUG     main cogs.commands.moderation.lock chargé
+2024-02-26 13:55:41 DEBUG     main cogs.commands.moderation.nuke chargé
+2024-02-26 13:55:41 DEBUG     main cogs.events.autorole chargé
+2024-02-26 13:55:41 DEBUG     main cogs.events.level chargé
+2024-02-26 13:55:41 DEBUG     main cogs.events.tickets chargé
+2024-02-26 13:55:41 DEBUG     main cogs.events.welcome chargé
+2024-02-26 13:56:27 INFO     main Theruser test bot#1363 est connecté avec 7 commande(s) synchronisée(s) sous la version 1.0.0beta
+2024-02-26 13:56:38 DEBUG     cogs.events.tickets Le ticket 1211650830160105533 a été fermé par 1208571328861315082
+2024-02-26 13:56:54 DEBUG     main Mode débug activé
+2024-02-26 13:56:54 DEBUG     main cogs.commands.giveaway chargé
+2024-02-26 13:56:54 DEBUG     main cogs.commands.info chargé
+2024-02-26 13:56:54 DEBUG     main cogs.commands.level chargé
+2024-02-26 13:56:54 DEBUG     main cogs.commands.say chargé
+2024-02-26 13:56:54 DEBUG     main cogs.commands.moderation.lock chargé
+2024-02-26 13:56:54 DEBUG     main cogs.commands.moderation.nuke chargé
+2024-02-26 13:56:54 DEBUG     main cogs.events.autorole chargé
+2024-02-26 13:56:54 DEBUG     main cogs.events.level chargé
+2024-02-26 13:56:54 DEBUG     main cogs.events.tickets chargé
+2024-02-26 13:56:54 DEBUG     main cogs.events.welcome chargé
+2024-02-26 13:56:56 INFO     main Theruser test bot#1363 est connecté avec 7 commande(s) synchronisée(s) sous la version 1.0.0beta
+2024-02-26 13:57:02 DEBUG     cogs.events.tickets Le ticket 1211658076730429471 a été fermé par 1009841725004578856
+2024-02-26 13:59:21 DEBUG     cogs.events.tickets Le ticket 1211658749668884490 a été fermé par 1208571328861315082
+2024-02-26 13:59:41 DEBUG     cogs.events.tickets Le ticket 1211658818203951174 a été fermé par 1009841725004578856
+2024-02-26 13:59:41 DEBUG     cogs.events.tickets Le ticket 1211658818203951174 a été fermé par 1009841725004578856
+2024-02-26 14:02:54 DEBUG     main Mode débug activé
+2024-02-26 14:02:54 DEBUG     main cogs.commands.giveaway chargé
+2024-02-26 14:02:54 DEBUG     main cogs.commands.info chargé
+2024-02-26 14:02:54 DEBUG     main cogs.commands.level chargé
+2024-02-26 14:02:54 DEBUG     main cogs.commands.say chargé
+2024-02-26 14:02:54 DEBUG     main cogs.commands.moderation.lock chargé
+2024-02-26 14:02:54 DEBUG     main cogs.commands.moderation.nuke chargé
+2024-02-26 14:02:54 DEBUG     main cogs.events.autorole chargé
+2024-02-26 14:02:54 DEBUG     main cogs.events.level chargé
+2024-02-26 14:02:54 DEBUG     main cogs.events.tickets chargé
+2024-02-26 14:02:54 DEBUG     main cogs.events.welcome chargé
+2024-02-26 14:02:57 INFO     main Theruser test bot#1363 est connecté avec 7 commande(s) synchronisée(s) sous la version 1.0.0beta
+2024-02-26 14:03:16 DEBUG     cogs.events.tickets Le ticket 1211659730242764872 a été fermé par 1208571328861315082
+2024-02-26 14:03:28 DEBUG     main Mode débug activé
+2024-02-26 14:03:28 DEBUG     main cogs.commands.giveaway chargé
+2024-02-26 14:03:29 DEBUG     main cogs.commands.info chargé
+2024-02-26 14:03:29 DEBUG     main cogs.commands.level chargé
+2024-02-26 14:03:29 DEBUG     main cogs.commands.say chargé
+2024-02-26 14:03:29 DEBUG     main cogs.commands.moderation.lock chargé
+2024-02-26 14:03:29 DEBUG     main cogs.commands.moderation.nuke chargé
+2024-02-26 14:03:29 DEBUG     main cogs.events.autorole chargé
+2024-02-26 14:03:29 DEBUG     main cogs.events.level chargé
+2024-02-26 14:03:29 DEBUG     main cogs.events.tickets chargé
+2024-02-26 14:03:29 DEBUG     main cogs.events.welcome chargé
+2024-02-26 14:03:32 INFO     main Theruser test bot#1363 est connecté avec 7 commande(s) synchronisée(s) sous la version 1.0.0beta
+2024-02-26 14:03:41 DEBUG     cogs.events.tickets Le ticket 1211659842024898590 a été fermé par 1208571328861315082
+2024-02-26 14:05:11 DEBUG     main Mode débug activé
+2024-02-26 14:05:11 DEBUG     main cogs.commands.giveaway chargé
+2024-02-26 14:05:11 DEBUG     main cogs.commands.info chargé
+2024-02-26 14:05:11 DEBUG     main cogs.commands.level chargé
+2024-02-26 14:05:11 DEBUG     main cogs.commands.say chargé
+2024-02-26 14:05:11 DEBUG     main cogs.commands.moderation.lock chargé
+2024-02-26 14:05:11 DEBUG     main cogs.commands.moderation.nuke chargé
+2024-02-26 14:05:11 DEBUG     main cogs.events.autorole chargé
+2024-02-26 14:05:11 DEBUG     main cogs.events.level chargé
+2024-02-26 14:05:11 DEBUG     main cogs.events.tickets chargé
+2024-02-26 14:05:11 DEBUG     main cogs.events.welcome chargé
+2024-02-26 14:05:14 INFO     main Theruser test bot#1363 est connecté avec 7 commande(s) synchronisée(s) sous la version 1.0.0beta
+2024-02-26 14:05:47 DEBUG     cogs.events.tickets Le ticket 1211660365331701802 a été fermé par 1208571328861315082
+2024-02-26 14:06:05 DEBUG     cogs.events.tickets Le ticket 1211660422885810206 a été fermé par 1009841725004578856
+2024-02-26 18:49:36 DEBUG     main Mode débug activé
+2024-02-26 18:49:36 DEBUG     main cogs.commands.giveaway chargé
+2024-02-26 18:49:36 DEBUG     main cogs.commands.info chargé
+2024-02-26 18:49:36 DEBUG     main cogs.commands.level chargé
+2024-02-26 18:49:36 DEBUG     main cogs.commands.say chargé
+2024-02-26 18:49:36 DEBUG     main cogs.commands.moderation.lock chargé
+2024-02-26 18:49:36 DEBUG     main cogs.commands.moderation.nuke chargé
+2024-02-26 18:49:36 DEBUG     main cogs.events.autorole chargé
+2024-02-26 18:49:36 DEBUG     main cogs.events.level chargé
+2024-02-26 18:49:36 DEBUG     main cogs.events.tickets chargé
+2024-02-26 18:49:36 DEBUG     main cogs.events.welcome chargé
+2024-02-26 18:49:39 INFO     main Theruser test bot#1363 est connecté avec 7 commande(s) synchronisée(s) sous la version 1.0.0beta
+2024-02-26 18:52:39 DEBUG     main Mode débug activé
+2024-02-26 18:52:39 DEBUG     main cogs.commands.giveaway chargé
+2024-02-26 18:52:39 DEBUG     main cogs.commands.info chargé
+2024-02-26 18:52:40 DEBUG     main cogs.commands.level chargé
+2024-02-26 18:52:40 DEBUG     main cogs.commands.say chargé
+2024-02-26 18:52:40 DEBUG     main cogs.commands.moderation.lock chargé
+2024-02-26 18:52:40 DEBUG     main cogs.commands.moderation.nuke chargé
+2024-02-26 18:52:40 DEBUG     main cogs.events.autorole chargé
+2024-02-26 18:52:40 DEBUG     main cogs.events.level chargé
+2024-02-26 18:52:40 DEBUG     main cogs.events.tickets chargé
+2024-02-26 18:52:40 DEBUG     main cogs.events.welcome chargé
+2024-02-26 18:52:43 INFO     main Theruser test bot#1363 est connecté avec 7 commande(s) synchronisée(s) sous la version 1.0.0beta
+2024-02-26 18:52:46 DEBUG     cogs.events.tickets Le ticket 1211732343321137293 a été fermé par 1208571328861315082
+2024-02-26 18:57:54 DEBUG     main Mode débug activé
+2024-02-26 18:57:54 DEBUG     main cogs.commands.giveaway chargé
+2024-02-26 18:57:54 DEBUG     main cogs.commands.info chargé
+2024-02-26 18:57:54 DEBUG     main cogs.commands.level chargé
+2024-02-26 18:57:54 DEBUG     main cogs.commands.say chargé
+2024-02-26 18:57:54 DEBUG     main cogs.commands.moderation.lock chargé
+2024-02-26 18:57:54 DEBUG     main cogs.commands.moderation.nuke chargé
+2024-02-26 18:57:54 DEBUG     main cogs.events.autorole chargé
+2024-02-26 18:57:54 DEBUG     main cogs.events.level chargé
+2024-02-26 18:57:54 DEBUG     main cogs.events.tickets chargé
+2024-02-26 18:57:54 DEBUG     main cogs.events.welcome chargé
+2024-02-26 18:57:57 INFO     main Theruser test bot#1363 est connecté avec 9 commande(s) synchronisée(s) sous la version 1.0.0beta
+2024-02-26 18:58:20 DEBUG     main Mode débug activé
+2024-02-26 18:58:20 DEBUG     main cogs.commands.giveaway chargé
+2024-02-26 18:58:20 DEBUG     main cogs.commands.info chargé
+2024-02-26 18:58:20 DEBUG     main cogs.commands.level chargé
+2024-02-26 18:58:20 DEBUG     main cogs.commands.say chargé
+2024-02-26 18:58:20 DEBUG     main cogs.commands.moderation.lock chargé
+2024-02-26 18:58:20 DEBUG     main cogs.commands.moderation.nuke chargé
+2024-02-26 18:58:20 DEBUG     main cogs.events.autorole chargé
+2024-02-26 18:58:20 DEBUG     main cogs.events.level chargé
+2024-02-26 18:58:20 DEBUG     main cogs.events.tickets chargé
+2024-02-26 18:58:20 DEBUG     main cogs.events.welcome chargé
+2024-02-26 18:58:42 DEBUG     main Mode débug activé
+2024-02-26 18:58:42 DEBUG     main cogs.commands.giveaway chargé
+2024-02-26 18:58:42 DEBUG     main cogs.commands.info chargé
+2024-02-26 18:58:43 DEBUG     main cogs.commands.level chargé
+2024-02-26 18:58:43 DEBUG     main cogs.commands.say chargé
+2024-02-26 18:58:43 DEBUG     main cogs.commands.moderation.lock chargé
+2024-02-26 18:58:43 DEBUG     main cogs.commands.moderation.nuke chargé
+2024-02-26 18:58:43 DEBUG     main cogs.events.autorole chargé
+2024-02-26 18:58:43 DEBUG     main cogs.events.level chargé
+2024-02-26 18:58:43 DEBUG     main cogs.events.tickets chargé
+2024-02-26 18:58:43 DEBUG     main cogs.events.welcome chargé
+2024-02-26 18:59:27 INFO     main Theruser test bot#1363 est connecté avec 8 commande(s) synchronisée(s) sous la version 1.0.0beta
+2024-02-26 19:00:44 DEBUG     main Mode débug activé
+2024-02-26 19:00:44 DEBUG     main cogs.commands.giveaway chargé
+2024-02-26 19:00:44 DEBUG     main cogs.commands.info chargé
+2024-02-26 19:00:44 DEBUG     main cogs.commands.level chargé
+2024-02-26 19:00:44 DEBUG     main cogs.commands.say chargé
+2024-02-26 19:00:44 DEBUG     main cogs.commands.moderation.lock chargé
+2024-02-26 19:00:44 DEBUG     main cogs.commands.moderation.nuke chargé
+2024-02-26 19:00:44 DEBUG     main cogs.events.autorole chargé
+2024-02-26 19:00:44 DEBUG     main cogs.events.level chargé
+2024-02-26 19:00:44 DEBUG     main cogs.events.tickets chargé
+2024-02-26 19:00:44 DEBUG     main cogs.events.welcome chargé
+2024-02-26 19:00:47 INFO     main Theruser test bot#1363 est connecté avec 8 commande(s) synchronisée(s) sous la version 1.0.0beta
+2024-02-26 19:01:18 DEBUG     main Mode débug activé
+2024-02-26 19:01:18 DEBUG     main cogs.commands.giveaway chargé
+2024-02-26 19:01:18 DEBUG     main cogs.commands.info chargé
+2024-02-26 19:01:19 DEBUG     main cogs.commands.level chargé
+2024-02-26 19:01:19 DEBUG     main cogs.commands.say chargé
+2024-02-26 19:01:19 DEBUG     main cogs.commands.moderation.lock chargé
+2024-02-26 19:01:19 DEBUG     main cogs.commands.moderation.nuke chargé
+2024-02-26 19:01:19 DEBUG     main cogs.events.autorole chargé
+2024-02-26 19:01:19 DEBUG     main cogs.events.level chargé
+2024-02-26 19:01:19 DEBUG     main cogs.events.tickets chargé
+2024-02-26 19:01:19 DEBUG     main cogs.events.welcome chargé
+2024-02-26 19:01:21 INFO     main Theruser test bot#1363 est connecté avec 8 commande(s) synchronisée(s) sous la version 1.0.0beta
+2024-02-26 19:03:21 DEBUG     cogs.events.tickets Le ticket 1211735034667606126 a été fermé par 1208571328861315082
+2024-02-26 19:03:45 DEBUG     main Mode débug activé
+2024-02-26 19:03:45 DEBUG     main cogs.commands.giveaway chargé
+2024-02-26 19:03:45 DEBUG     main cogs.commands.info chargé
+2024-02-26 19:03:45 DEBUG     main cogs.commands.level chargé
+2024-02-26 19:03:45 DEBUG     main cogs.commands.say chargé
+2024-02-26 19:03:45 DEBUG     main cogs.commands.moderation.lock chargé
+2024-02-26 19:03:45 DEBUG     main cogs.commands.moderation.nuke chargé
+2024-02-26 19:03:45 DEBUG     main cogs.events.autorole chargé
+2024-02-26 19:03:45 DEBUG     main cogs.events.level chargé
+2024-02-26 19:03:45 DEBUG     main cogs.events.tickets chargé
+2024-02-26 19:03:45 DEBUG     main cogs.events.welcome chargé
+2024-02-26 19:03:48 INFO     main Theruser test bot#1363 est connecté avec 8 commande(s) synchronisée(s) sous la version 1.0.0beta
+2024-02-26 19:05:10 DEBUG     main Mode débug activé
+2024-02-26 19:05:10 DEBUG     main cogs.commands.giveaway chargé
+2024-02-26 19:05:10 DEBUG     main cogs.commands.info chargé
+2024-02-26 19:05:10 DEBUG     main cogs.commands.level chargé
+2024-02-26 19:05:10 DEBUG     main cogs.commands.say chargé
+2024-02-26 19:05:10 DEBUG     main cogs.commands.moderation.lock chargé
+2024-02-26 19:05:10 DEBUG     main cogs.commands.moderation.nuke chargé
+2024-02-26 19:05:10 DEBUG     main cogs.events.autorole chargé
+2024-02-26 19:05:10 DEBUG     main cogs.events.level chargé
+2024-02-26 19:05:10 DEBUG     main cogs.events.tickets chargé
+2024-02-26 19:05:10 DEBUG     main cogs.events.welcome chargé
+2024-02-26 19:05:13 INFO     main Theruser test bot#1363 est connecté avec 8 commande(s) synchronisée(s) sous la version 1.0.0beta
+2024-02-26 19:06:35 DEBUG     main Mode débug activé
+2024-02-26 19:06:35 DEBUG     main cogs.commands.giveaway chargé
+2024-02-26 19:06:35 DEBUG     main cogs.commands.info chargé
+2024-02-26 19:06:35 DEBUG     main cogs.commands.level chargé
+2024-02-26 19:06:35 DEBUG     main cogs.commands.say chargé
+2024-02-26 19:06:35 DEBUG     main cogs.commands.moderation.lock chargé
+2024-02-26 19:06:35 DEBUG     main cogs.commands.moderation.nuke chargé
+2024-02-26 19:06:35 DEBUG     main cogs.events.autorole chargé
+2024-02-26 19:06:35 DEBUG     main cogs.events.level chargé
+2024-02-26 19:06:35 DEBUG     main cogs.events.tickets chargé
+2024-02-26 19:06:35 DEBUG     main cogs.events.welcome chargé
+2024-02-26 19:06:38 INFO     main Theruser test bot#1363 est connecté avec 8 commande(s) synchronisée(s) sous la version 1.0.0beta
+2024-02-26 19:06:43 ROR     cogs.events.tickets Command 'add' raised an exception: TypeError: Invalid overwrite type provided.
+2024-02-26 19:10:03 DEBUG     main Mode débug activé
+2024-02-26 19:10:03 DEBUG     main cogs.commands.giveaway chargé
+2024-02-26 19:10:03 DEBUG     main cogs.commands.info chargé
+2024-02-26 19:10:03 DEBUG     main cogs.commands.level chargé
+2024-02-26 19:10:03 DEBUG     main cogs.commands.say chargé
+2024-02-26 19:10:03 DEBUG     main cogs.commands.moderation.lock chargé
+2024-02-26 19:10:03 DEBUG     main cogs.commands.moderation.nuke chargé
+2024-02-26 19:10:03 DEBUG     main cogs.events.autorole chargé
+2024-02-26 19:10:03 DEBUG     main cogs.events.level chargé
+2024-02-26 19:10:03 DEBUG     main cogs.events.tickets chargé
+2024-02-26 19:10:03 DEBUG     main cogs.events.welcome chargé
+2024-02-26 19:10:06 INFO     main Theruser test bot#1363 est connecté avec 8 commande(s) synchronisée(s) sous la version 1.0.0beta
+2024-02-26 19:11:19 DEBUG     main Mode débug activé
+2024-02-26 19:11:19 DEBUG     main cogs.commands.giveaway chargé
+2024-02-26 19:11:19 DEBUG     main cogs.commands.info chargé
+2024-02-26 19:11:19 DEBUG     main cogs.commands.level chargé
+2024-02-26 19:11:19 DEBUG     main cogs.commands.say chargé
+2024-02-26 19:11:19 DEBUG     main cogs.commands.moderation.lock chargé
+2024-02-26 19:11:19 DEBUG     main cogs.commands.moderation.nuke chargé
+2024-02-26 19:11:19 DEBUG     main cogs.events.autorole chargé
+2024-02-26 19:11:19 DEBUG     main cogs.events.level chargé
+2024-02-26 19:11:19 DEBUG     main cogs.events.tickets chargé
+2024-02-26 19:11:19 DEBUG     main cogs.events.welcome chargé
+2024-02-26 19:11:22 INFO     main Theruser test bot#1363 est connecté avec 8 commande(s) synchronisée(s) sous la version 1.0.0beta
+2024-02-26 19:13:13 DEBUG     main Mode débug activé
+2024-02-26 19:13:13 DEBUG     main cogs.commands.giveaway chargé
+2024-02-26 19:13:13 DEBUG     main cogs.commands.info chargé
+2024-02-26 19:13:13 DEBUG     main cogs.commands.level chargé
+2024-02-26 19:13:13 DEBUG     main cogs.commands.say chargé
+2024-02-26 19:13:13 DEBUG     main cogs.commands.moderation.lock chargé
+2024-02-26 19:13:13 DEBUG     main cogs.commands.moderation.nuke chargé
+2024-02-26 19:13:13 DEBUG     main cogs.events.autorole chargé
+2024-02-26 19:13:13 DEBUG     main cogs.events.level chargé
+2024-02-26 19:13:13 DEBUG     main cogs.events.tickets chargé
+2024-02-26 19:13:13 DEBUG     main cogs.events.welcome chargé
+2024-02-26 19:13:16 INFO     main Theruser test bot#1363 est connecté avec 8 commande(s) synchronisée(s) sous la version 1.0.0beta
+2024-02-26 19:17:40 DEBUG     main Mode débug activé
+2024-02-26 19:17:40 DEBUG     main cogs.commands.giveaway chargé
+2024-02-26 19:17:40 DEBUG     main cogs.commands.info chargé
+2024-02-26 19:17:40 DEBUG     main cogs.commands.level chargé
+2024-02-26 19:17:40 DEBUG     main cogs.commands.say chargé
+2024-02-26 19:17:40 DEBUG     main cogs.commands.moderation.lock chargé
+2024-02-26 19:17:40 DEBUG     main cogs.commands.moderation.nuke chargé
+2024-02-26 19:17:40 DEBUG     main cogs.events.autorole chargé
+2024-02-26 19:17:40 DEBUG     main cogs.events.level chargé
+2024-02-26 19:17:40 DEBUG     main cogs.events.tickets chargé
+2024-02-26 19:17:40 DEBUG     main cogs.events.welcome chargé
+2024-02-26 19:17:43 INFO     main Theruser test bot#1363 est connecté avec 8 commande(s) synchronisée(s) sous la version 1.0.0beta
+2024-02-26 19:18:56 DEBUG     main Mode débug activé
+2024-02-26 19:18:56 DEBUG     main cogs.commands.giveaway chargé
+2024-02-26 19:18:56 DEBUG     main cogs.commands.info chargé
+2024-02-26 19:18:56 DEBUG     main cogs.commands.level chargé
+2024-02-26 19:18:56 DEBUG     main cogs.commands.say chargé
+2024-02-26 19:18:56 DEBUG     main cogs.commands.moderation.lock chargé
+2024-02-26 19:18:56 DEBUG     main cogs.commands.moderation.nuke chargé
+2024-02-26 19:18:56 DEBUG     main cogs.events.autorole chargé
+2024-02-26 19:18:56 DEBUG     main cogs.events.level chargé
+2024-02-26 19:18:56 DEBUG     main cogs.events.tickets chargé
+2024-02-26 19:18:56 DEBUG     main cogs.events.welcome chargé
+2024-02-26 19:18:59 INFO     main Theruser test bot#1363 est connecté avec 8 commande(s) synchronisée(s) sous la version 1.0.0beta
+2024-02-26 19:20:25 DEBUG     main Mode débug activé
+2024-02-26 19:20:25 DEBUG     main cogs.commands.giveaway chargé
+2024-02-26 19:20:25 DEBUG     main cogs.commands.info chargé
+2024-02-26 19:20:26 DEBUG     main cogs.commands.level chargé
+2024-02-26 19:20:26 DEBUG     main cogs.commands.say chargé
+2024-02-26 19:20:26 DEBUG     main cogs.commands.moderation.lock chargé
+2024-02-26 19:20:26 DEBUG     main cogs.commands.moderation.nuke chargé
+2024-02-26 19:20:26 DEBUG     main cogs.events.autorole chargé
+2024-02-26 19:20:26 DEBUG     main cogs.events.level chargé
+2024-02-26 19:20:26 DEBUG     main cogs.events.tickets chargé
+2024-02-26 19:20:26 DEBUG     main cogs.events.welcome chargé
+2024-02-26 19:20:28 INFO     main Theruser test bot#1363 est connecté avec 8 commande(s) synchronisée(s) sous la version 1.0.0beta
+2024-02-26 19:25:59 DEBUG     main Mode débug activé
+2024-02-26 19:25:59 DEBUG     main cogs.commands.giveaway chargé
+2024-02-26 19:25:59 DEBUG     main cogs.commands.info chargé
+2024-02-26 19:25:59 DEBUG     main cogs.commands.level chargé
+2024-02-26 19:25:59 DEBUG     main cogs.commands.say chargé
+2024-02-26 19:25:59 DEBUG     main cogs.commands.moderation.lock chargé
+2024-02-26 19:25:59 DEBUG     main cogs.commands.moderation.nuke chargé
+2024-02-26 19:25:59 DEBUG     main cogs.events.autorole chargé
+2024-02-26 19:25:59 DEBUG     main cogs.events.level chargé
+2024-02-26 19:25:59 DEBUG     main cogs.events.tickets chargé
+2024-02-26 19:25:59 DEBUG     main cogs.events.welcome chargé
+2024-02-26 19:26:02 INFO     main Theruser test bot#1363 est connecté avec 8 commande(s) synchronisée(s) sous la version 1.0.0beta
+2024-02-26 19:26:19 DEBUG     main Mode débug activé
+2024-02-26 19:26:19 DEBUG     main cogs.commands.giveaway chargé
+2024-02-26 19:26:19 DEBUG     main cogs.commands.info chargé
+2024-02-26 19:26:20 DEBUG     main cogs.commands.level chargé
+2024-02-26 19:26:20 DEBUG     main cogs.commands.say chargé
+2024-02-26 19:26:20 DEBUG     main cogs.commands.moderation.lock chargé
+2024-02-26 19:26:20 DEBUG     main cogs.commands.moderation.nuke chargé
+2024-02-26 19:26:20 DEBUG     main cogs.events.autorole chargé
+2024-02-26 19:26:20 DEBUG     main cogs.events.level chargé
+2024-02-26 19:26:20 DEBUG     main cogs.events.tickets chargé
+2024-02-26 19:26:20 DEBUG     main cogs.events.welcome chargé
+2024-02-26 19:27:02 INFO     main Theruser test bot#1363 est connecté avec 8 commande(s) synchronisée(s) sous la version 1.0.0beta
+2024-04-20 21:59:45 DEBUG     main Mode débug activé
+2024-04-20 21:59:45 DEBUG     main cogs.commands.giveaway chargé
+2024-04-20 21:59:45 DEBUG     main cogs.commands.info chargé
+2024-04-20 22:00:19 DEBUG     main Mode débug activé
+2024-04-20 22:00:19 DEBUG     main cogs.commands.giveaway chargé
+2024-04-20 22:00:19 DEBUG     main cogs.commands.info chargé
+2024-04-20 22:00:20 DEBUG     main cogs.commands.level chargé
+2024-04-20 22:00:20 DEBUG     main cogs.commands.say chargé
+2024-04-20 22:00:20 DEBUG     main cogs.commands.moderation.lock chargé
+2024-04-20 22:00:20 DEBUG     main cogs.commands.moderation.nuke chargé
+2024-04-20 22:00:20 DEBUG     main cogs.events.autorole chargé
+2024-04-20 22:00:20 DEBUG     main cogs.events.level chargé
+2024-04-20 22:00:20 DEBUG     main cogs.events.tickets chargé
+2024-04-20 22:00:20 DEBUG     main cogs.events.welcome chargé
+2024-04-20 22:00:23 INFO     main Theruser test bot#1363 est connecté avec 8 commande(s) synchronisée(s) sous la version 1.0.0beta
+2024-04-20 22:01:34 DEBUG     main Mode débug activé
+2024-04-20 22:01:34 DEBUG     main cogs.commands.giveaway chargé
+2024-04-20 22:01:34 DEBUG     main cogs.commands.info chargé
+2024-04-20 22:01:35 DEBUG     main cogs.commands.level chargé
+2024-04-20 22:01:35 DEBUG     main cogs.commands.say chargé
+2024-04-20 22:01:35 DEBUG     main cogs.commands.moderation.lock chargé
+2024-04-20 22:01:35 DEBUG     main cogs.commands.moderation.nuke chargé
+2024-04-20 22:01:35 DEBUG     main cogs.events.autorole chargé
+2024-04-20 22:01:35 DEBUG     main cogs.events.level chargé
+2024-04-20 22:01:35 DEBUG     main cogs.events.tickets chargé
+2024-04-20 22:01:35 DEBUG     main cogs.events.welcome chargé
+2024-04-20 22:01:37 INFO     main Usefull Bot#8908 est connecté avec 8 commande(s) synchronisée(s) sous la version 1.0.0beta
+2024-04-20 22:03:31 ROR     cogs.commands.giveaway You are missing at least one of the required roles: '1210903661736103956'
+2024-04-20 22:04:40 DEBUG     main Mode débug activé
+2024-04-20 22:04:40 DEBUG     main cogs.commands.giveaway chargé
+2024-04-20 22:04:40 DEBUG     main cogs.commands.info chargé
+2024-04-20 22:04:41 DEBUG     main cogs.commands.level chargé
+2024-04-20 22:04:41 DEBUG     main cogs.commands.say chargé
+2024-04-20 22:04:41 DEBUG     main cogs.commands.moderation.lock chargé
+2024-04-20 22:04:41 DEBUG     main cogs.commands.moderation.nuke chargé
+2024-04-20 22:04:41 DEBUG     main cogs.events.autorole chargé
+2024-04-20 22:04:41 DEBUG     main cogs.events.level chargé
+2024-04-20 22:04:41 DEBUG     main cogs.events.tickets chargé
+2024-04-20 22:04:41 DEBUG     main cogs.events.welcome chargé
+2024-04-20 22:04:43 INFO     main Usefull Bot#8908 est connecté avec 8 commande(s) synchronisée(s) sous la version 1.0.0beta
+2024-04-20 22:05:09 DEBUG     main Mode débug activé
+2024-04-20 22:05:09 DEBUG     main cogs.commands.giveaway chargé
+2024-04-20 22:05:09 DEBUG     main cogs.commands.info chargé
+2024-04-20 22:05:09 DEBUG     main cogs.commands.level chargé
+2024-04-20 22:05:09 DEBUG     main cogs.commands.say chargé
+2024-04-20 22:05:09 DEBUG     main cogs.commands.moderation.lock chargé
+2024-04-20 22:05:09 DEBUG     main cogs.commands.moderation.nuke chargé
+2024-04-20 22:05:09 DEBUG     main cogs.events.autorole chargé
+2024-04-20 22:05:09 DEBUG     main cogs.events.level chargé
+2024-04-20 22:05:09 DEBUG     main cogs.events.tickets chargé
+2024-04-20 22:05:09 DEBUG     main cogs.events.welcome chargé
+2024-04-20 22:05:43 INFO     main Usefull Bot#8908 est connecté avec 8 commande(s) synchronisée(s) sous la version 1.0.0beta
+2024-04-20 22:07:04 DEBUG     cogs.commands.giveaway Le giveaway 1231335085559775344 a été supprimé
+2024-08-21 00:50:58 DEBUG     main Mode débug activé
+2024-08-21 00:50:59 DEBUG     main cogs.events.github chargé
+2024-08-21 00:50:59 DEBUG     main cogs.events.level chargé
+2024-08-21 00:50:59 DEBUG     main cogs.events.autorole chargé
+2024-08-21 00:50:59 DEBUG     main cogs.events.welcome chargé
+2024-08-21 00:50:59 DEBUG     main cogs.commands.giveaway chargé
+2024-08-21 00:50:59 DEBUG     main cogs.commands.level chargé
+2024-08-21 00:50:59 DEBUG     main cogs.commands.say chargé
+2024-08-21 00:50:59 DEBUG     main cogs.commands.info chargé
+2024-08-21 00:50:59 DEBUG     main cogs.commands.moderation.lock chargé
+2024-08-21 00:50:59 DEBUG     main cogs.commands.moderation.nuke chargé
+2024-08-21 00:51:01 INFO     main Usefull Bot#8908 est connecté avec 7 commande(s) synchronisée(s) sous la version 1.0.0beta
+2024-08-21 00:54:28 DEBUG     main Mode débug activé
+2024-08-21 00:54:29 DEBUG     main cogs.events.github chargé
+2024-08-21 00:54:29 DEBUG     main cogs.events.level chargé
+2024-08-21 00:54:29 DEBUG     main cogs.events.autorole chargé
+2024-08-21 00:54:29 DEBUG     main cogs.events.welcome chargé
+2024-08-21 00:54:29 DEBUG     main cogs.commands.giveaway chargé
+2024-08-21 00:54:29 DEBUG     main cogs.commands.level chargé
+2024-08-21 00:54:29 DEBUG     main cogs.commands.say chargé
+2024-08-21 00:54:29 DEBUG     main cogs.commands.info chargé
+2024-08-21 00:54:29 DEBUG     main cogs.commands.moderation.lock chargé
+2024-08-21 00:54:29 DEBUG     main cogs.commands.moderation.nuke chargé
+2024-08-21 00:54:31 INFO     main Usefull Bot#8908 est connecté avec 7 commande(s) synchronisée(s) sous la version 1.0.0beta
+2024-08-21 01:00:26 DEBUG     main Mode débug activé
+2024-08-21 01:00:26 DEBUG     main cogs.events.github chargé
+2024-08-21 01:00:26 DEBUG     main cogs.events.autorole chargé
+2024-08-21 01:00:26 DEBUG     main cogs.commands.giveaway chargé
+2024-08-21 01:00:26 DEBUG     main cogs.commands.level chargé
+2024-08-21 01:00:26 DEBUG     main cogs.commands.say chargé
+2024-08-21 01:00:26 DEBUG     main cogs.commands.info chargé
+2024-08-21 01:00:26 DEBUG     main cogs.commands.moderation.lock chargé
+2024-08-21 01:00:26 DEBUG     main cogs.commands.moderation.nuke chargé
+2024-08-21 01:00:29 INFO     main Sculk#4465 est connecté avec 7 commande(s) synchronisée(s) sous la version 1.0.0beta
+2024-08-21 01:05:49 DEBUG     main Mode débug activé
+2024-08-21 01:05:49 DEBUG     main cogs.events.github chargé
+2024-08-21 01:05:49 DEBUG     main cogs.events.autorole chargé
+2024-08-21 01:05:49 DEBUG     main cogs.commands.giveaway chargé
+2024-08-21 01:05:49 DEBUG     main cogs.commands.say chargé
+2024-08-21 01:05:49 DEBUG     main cogs.commands.info chargé
+2024-08-21 01:05:49 DEBUG     main cogs.commands.moderation.lock chargé
+2024-08-21 01:05:49 DEBUG     main cogs.commands.moderation.nuke chargé
+2024-08-21 01:05:52 INFO     main Sculk#4465 est connecté avec 6 commande(s) synchronisée(s) sous la version 1.0.0beta
+2024-08-21 01:06:13 DEBUG     cogs.commands.giveaway Le giveaway 1275591707999731734 a été supprimé
