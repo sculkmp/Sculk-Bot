@@ -22,7 +22,7 @@ class Wiki(commands.Cog):
 
     @app_commands.command(name='wiki', description='Get wiki information')
     async def wiki(self, interaction: discord.Interaction):
-        wiki_url = 'https://www.sculkmp.org/wiki'  # Remplacez par le lien de votre wiki
+        wiki_url = 'https://www.sculkmp.org/wiki'
         embed = discord.Embed(description=f'You can find more information on our wiki: [Click here]({wiki_url})', colour=0x28b4d8)
         await interaction.response.send_message(embed=embed)
 
