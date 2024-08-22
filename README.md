@@ -12,7 +12,7 @@ Sculk is the source code for discord application written in Python of the commun
 
 ## 🎯 Features
 * Administrator tools: `/say`
-* Moderation tools: `/lock` `/unlock` - `/nuke` *(for clear channel)*
+* Moderation tools: `/kick` - `/mute and /unmute` - `/ban and /unban` - `/lock and /unlock` - `/unlock` - `/clear`- `/nuke` *(for clear channel)* - `blacklist` *(config.json)*
 * Utilities tools: `/info`
 
 ## ⚒️ Run discord application
