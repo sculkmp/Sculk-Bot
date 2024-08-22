@@ -71,5 +71,4 @@ class client(commands.Bot):
         log.write('main', f'{self.user} is connected with {len(synced)} command(s) synchonizes(s) under version {data["version"]}', log.levels.info)
         await asyncio.create_task(console())
 
-
 bot = client(); bot.run(data["token"])
