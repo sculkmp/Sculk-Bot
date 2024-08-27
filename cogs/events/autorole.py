@@ -22,23 +22,31 @@ import asyncio
 class autojoin(commands.Cog):
     def __init__(self, bot: commands.Bot) -> None:
         self.bot = bot
-    
+
     @commands.Cog.listener()
     async def on_member_join(self, member: discord.Member) -> None:
-        member.add_roles(member.guild.get_role(data['autorole']))
+        autorole = member.guild.get_role(data['autorole'])
+        if autorole is None:
+            log.write('cogs.events.autorole', f'Could not find autorole with id {data["autorole"]} in guild {member.guild.name}', log.levels.error)
+            return
+        await member.add_roles([autorole])
         log.write('cogs.events.autorole', f'{member} joined the server and was given the autorole role', log.levels.debug)
-    
+
     @commands.Cog.listener()
     async def on_ready(self) -> None:
         for guild in self.bot.guilds:
+            autorole = guild.get_role(data['autorole'])
+            if autorole is None:
+                log.write('cogs.events.autorole', f'Could not find autorole with id {data["autorole"]} in guild {guild.name}', log.levels.error)
+                continue
             for member in guild.members:
                 if member.bot:
                     break
-                if data['autorole'] not in [role.id for role in member.roles]:
-                    await member.add_roles(member.guild.get_role(data['autorole']))
+                if autorole not in member.roles:
+                    await member.add_roles([autorole])
                     log.write('cogs.events.autorole', f'{member} received the autorole role because he did not possess it', log.levels.debug)
                     await asyncio.sleep(0.5)
-    
+
 
 async def setup(bot: commands.Bot) -> None:
     await bot.add_cog(autojoin(bot))
